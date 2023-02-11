@@ -1,2 +1,2 @@
-# BaseFastAPI_SQLModel
+# BaseFastAPI utilizando SQLModel
 Para uso no curso MorDevs2Blu
